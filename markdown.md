@@ -1,4 +1,4 @@
-# tytuł
+# tytuł <!-- omit in toc -->
 
 Powder Peparator
 
@@ -73,12 +73,12 @@ To jest przykładowa tabelka
 
 Spis treści
 
-- [tytuł](#tytuł)
-  - [chapter 1](#chapter-1)
-    - [chapter3](#chapter3)
-  - [wyróżnianie](#wyróżnianie)
-  - [odsyłacze](#odsyłacze)
-  - [Obrazki](#obrazki)
-  - [Listy](#listy)
-  - [Tabele](#tabele)
+- [chapter 1](#chapter-1)
+  - [chapter3](#chapter3)
+- [wyróżnianie](#wyróżnianie)
+- [odsyłacze](#odsyłacze)
+- [Obrazki](#obrazki)
+- [Listy](#listy)
+- [Tabele](#tabele)
     
+
