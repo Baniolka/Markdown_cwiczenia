@@ -52,3 +52,33 @@ X+Y=Z
 ## Obrazki
 
 ![](MicrosoftTeams-image.png)
+
+## Listy
+
+1. Pierwszy rozdział
+2. Drugi rozdział
+
+- jeden
+- dwa
+- trzy
+
+## Tabele
+
+To jest przykładowa tabelka
+
+|kolumna 1|Kolumna 2|
+|---------|---------|
+|bla bla  |bla bla  |
+|hehe     | hehe    |
+
+Spis treści
+
+- [tytuł](#tytuł)
+  - [chapter 1](#chapter-1)
+    - [chapter3](#chapter3)
+  - [wyróżnianie](#wyróżnianie)
+  - [odsyłacze](#odsyłacze)
+  - [Obrazki](#obrazki)
+  - [Listy](#listy)
+  - [Tabele](#tabele)
+    
