@@ -1,16 +1,25 @@
-# tytuł <!-- omit in toc -->
+# FIRST STEPS WITH MARKDOWN <!-- omit in toc -->
 
 Powder Peparator
 
+## **Table of contents**
 
-## chapter 1
+- [**Table of contents**](#table-of-contents)
+- [**1. About**](#1-about)
+  - [1.1 Help](#11-help)
+- [2. Highlighting and other](#2-highlighting-and-other)
+- [3. Links](#3-links)
+- [4. Pictures](#4-pictures)
+- [5. Lists](#5-lists)
+- [6. Table](#6-table)
 
-**About**
+  
+## **1. About**
 
 This manual provides all the information needed to use and service your Sinterit Powder Separator.  
 Good operation and durability depend on proper maintenance and careful use.
 
-### chapter3
+### 1.1 Help
 
 Before leaving the factory, this particular model has undergone thorough tests to ensure the utmost reliability.  However, make sure that the powder separator has not been damaged during transport in a way that could affect its operation and safety.  This manual should be considered an integral part of the powder separator and must be kept together with the unit this is scrapped.  
 In case of loss or damage to the manual, ask Sinterit for a new copy or visit www.sinterit.com/support/ and download the PDF.
@@ -18,8 +27,7 @@ This manual provides all the information needed to use and service your Sinterit
 Good operation and durability depend on proper maintenance and careful use.
 
 
-
-## Wyróżnianie
+## 2. Highlighting and other
 
 *In case of loss or damage* to the manual, ask Sinterit for a new copy or **visit** www.sinterit.com/support/ and download the PDF.
 
@@ -40,18 +48,17 @@ new operation:
 X+Y=Z
 ```
 
-## Odsyłacze
+## 3. Links
 
 [pogoda](www.meteo.pl)
 
 [www.meteo.pl]
 
-## Obrazki
+## 4. Pictures
 
 ![](MicrosoftTeams-image.png)
 
-## Listy
-
+## 5. Lists
 1. Pierwszy rozdział
 2. Drugi rozdział
 
@@ -59,24 +66,18 @@ X+Y=Z
 - dwa
 - trzy
 
-## Tabele
+## 6. Table
 
-To jest przykładowa tabelka
+This is an example table.
 
-|kolumna 1|Kolumna 2|
+|column 1|Column 2|
 |---------|---------|
-|bla bla  |bla bla  |
-|hehe     | hehe    |
+|  explosion protection|    electroshock  |
+|![Alt text](<atmosfera wybuchowa-1.jpg>)|![Alt text](Sinterit_icon_electrical_shock-1.png)|
 
-Spis treści
 
-- [chapter 1](#chapter-1)
-  - [chapter3](#chapter3)
-- [Wyróżnianie](#wyróżnianie)
-- [Odsyłacze](#odsyłacze)
-- [Obrazki](#obrazki)
-- [Listy](#listy)
-- [Tabele](#tabele)
-  
     
 
+
+
+[def]: #table-of-contents
