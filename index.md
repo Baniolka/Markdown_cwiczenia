@@ -52,7 +52,7 @@ X+Y=Z
 
 [pogoda](www.meteo.pl)
 
-[www.meteo.pl]
+[www.meteo.pl](www.meteo.pl)
 
 ## 4. Pictures
 
@@ -76,8 +76,4 @@ This is an example table.
 |![Alt text](<atmosfera wybuchowa-1.jpg>)|![Alt text](Sinterit_icon_electrical_shock-1.png)|
 
 
-    
-
-
-
-[def]: #table-of-contents
+  
