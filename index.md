@@ -4,7 +4,8 @@ Powder Peparator
 
 
 ## chapter 1
-About
+
+**About**
 
 This manual provides all the information needed to use and service your Sinterit Powder Separator.  
 Good operation and durability depend on proper maintenance and careful use.
@@ -76,5 +77,6 @@ Spis treści
 - [Obrazki](#obrazki)
 - [Listy](#listy)
 - [Tabele](#tabele)
+  
     
 
