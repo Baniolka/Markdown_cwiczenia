@@ -38,7 +38,8 @@ operation:
 
 `x+y=z`
 
-```started_in = os.getcwd()
+```
+started_in = os.getcwd()
     download_content(terminology_url, terminology_languages)
     os.chdir(started_in)
 ```
